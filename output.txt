@@ -1,0 +1,40 @@
+Top Candidates:
+
+Aarohi Sen → Score: 16
+Reasons:
+ - ai (partial)
+ - python (exact)
+ - nlp (exact)
+ - relevant education
+ - ai framework bonus
+----------------------------------------
+Ira Dalal → Score: 14
+Reasons:
+ - ai (partial)
+ - nlp (exact)
+ - python (exact)
+ - ai framework bonus
+----------------------------------------
+Myra Krishnan → Score: 14
+Reasons:
+ - nlp (exact)
+ - python (exact)
+ - relevant education
+ - ai framework bonus
+----------------------------------------
+Ved Vora → Score: 14
+Reasons:
+ - ai (partial)
+ - nlp (exact)
+ - python (exact)
+ - relevant education
+----------------------------------------
+Kiara Patel → Score: 14
+Reasons:
+ - nlp (exact)
+ - python (exact)
+ - llm (partial)
+ - ai framework bonus
+----------------------------------------
+
+PROGRAM FINISHED
